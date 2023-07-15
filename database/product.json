@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Peperoni",
+        "price" : 30000
+    },
+    {
+        "name" : "Sezar",
+        "price" : 45000
+    },
+    {
+        "name" : "4 Karra pishloq",
+        "price" : 50000
+    },
+    {
+        "name" : "Go'shtli",
+        "price" : 35000
+    },
+    {
+        "name" : "Margarita",
+        "price" : 37000
+    },
+    {
+        "name" : "Ninjago",
+        "price" : 57000
+    },
+    {
+        "name" : "Coca cola",
+        "price" : 10000
+    },
+    {
+        "name" : "Fanta",
+        "price" : 11000
+    },
+    {
+        "name" : "Suv",
+        "price" : 5000
+    },{
+        "name" : "Sprite",
+        "price" : 10000
+    }
+
+]
